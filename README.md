@@ -1,2 +1,2 @@
 # marvelcards
-Cards for flexbox training
+Cards for flexbox training with Vanilla JS
