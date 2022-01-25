@@ -1,4 +1,11 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+}    
 .card {
     width: 300px;
     min-width: 300px;
